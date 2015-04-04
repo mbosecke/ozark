@@ -58,7 +58,7 @@ import com.oracle.ozark.engine.ViewEngineBase;
 /**
  * Class PebbleViewEngine.
  *
- * @author Mitchell Bosecke
+ * @author Mitchell Bösecke
  */
 @ApplicationScoped
 public class PebbleViewEngine extends ViewEngineBase {

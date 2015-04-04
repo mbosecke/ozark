@@ -51,7 +51,7 @@ import javax.ws.rs.QueryParam;
 /**
  * HelloController test.
  *
- * @author Mitchell Bosecke
+ * @author Mitchell Bösecke
  */
 @Path("hello")
 public class HelloController {

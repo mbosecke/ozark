@@ -47,7 +47,7 @@ import java.util.Set;
 /**
  * Class MyApplication.
  *
- * @author Mitchell Bosecke
+ * @author Mitchell Bösecke
  */
 @ApplicationPath("resources")
 public class MyApplication extends Application {
