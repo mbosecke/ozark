@@ -40,5 +40,6 @@
         <module>mustache</module>
         <module>velocity</module>
 	    <module>thymeleaf</module>
+	    <module>pebble</module>
     </modules>
 </project>
